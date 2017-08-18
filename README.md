@@ -1,5 +1,5 @@
 # VI-obstacle-detector
-Computer Vision based obstacle detector for Visually Impaired people
+Computer Vision based obstacle detector for Visually Impaired people. Bachelor thesis by Álvaro Gregorio Gómez. For more information, contact a.gregorio.gomez@gmail.com
 
 1. MATLAB: Contiene los scripts de MATLAB para pruebas y visualización de resultados. 
 
